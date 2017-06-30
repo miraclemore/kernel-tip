@@ -1,0 +1,9 @@
+genirq
+irq/urgent
+irq/genirq
+irq/core
+irq/threaded
+irq/numa
+irq/cleanup
+irq/irqdomain
+irq/irqdomain-arm

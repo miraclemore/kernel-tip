@@ -1,0 +1,8 @@
+#
+# Integration rules for the locking tree:
+#
+locking/core
+locking/urgent
+locking/arch
+locking/arch-atomic
+locking/atomics
