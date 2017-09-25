@@ -27,3 +27,4 @@ core/smp
 atomic/core
 rcu/urgent
 ras/urgent
+core/watchdog
