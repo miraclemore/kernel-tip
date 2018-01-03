@@ -208,3 +208,4 @@ efi/core
 x86/cache
 x86/pkeys
 x86/stacktool
+x86/pti
